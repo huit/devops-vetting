@@ -23,6 +23,7 @@
 ## Architecture Questions
 
 1. Whiteboard Question --  Diagram a puppet configuration management architecture for the following environment:
+
         * 5,000 hosts
         * mix of ubuntu and RHEL
         * comination of physical hardware, VMs, and cloud infrastructure
