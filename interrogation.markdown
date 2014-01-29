@@ -24,11 +24,11 @@
 
 1. Whiteboard Question --  Diagram a puppet configuration management architecture for the following environment:
 
-        * 5,000 hosts
-        * mix of ubuntu and RHEL
-        * comination of physical hardware, VMs, and cloud infrastructure
-        * support for development, test, staging, and production environments
-        * include marionette collective support for all nodes
+   * 5,000 hosts
+   * mix of ubuntu and RHEL
+   * comination of physical hardware, VMs, and cloud infrastructure
+   * support for development, test, staging, and production environments
+   * include marionette collective support for all nodes
 
 
 
