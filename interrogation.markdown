@@ -34,6 +34,9 @@
 2. What is the fundamental differnece between TCP and UDP?
 
 
+3. Give some examples of different algorithms used in a network load balancer and describe what each does.
+
+
 
 
 
@@ -64,6 +67,8 @@
    * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
    * discuss how you would implement monitoring for each component of the system
 
+
+
 2. Whiteboard Question -- Diagram a hypothetical enterprise email system based on Postfix with the following criteria:
 
    i.
@@ -76,6 +81,13 @@
    * scale the system to handle system mail from 20,000 servers.
    * scale the system to handle 100,000 mail users
    * discuss how you would implement monitoring for each component of the system
+
+
+3. When researching technologies and best-practices, what are the sources of current information that you rely upon most frequently?
+
+
+
+
 
 ## Puppet Questions
 
