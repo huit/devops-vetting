@@ -25,6 +25,13 @@
 
 ## General Troubleshooting Questions
 
+1. You receive a call from a user who can not access a web site hosted by your team.  Describe the steps you would take to troubleshoot.
+
+
+2. An application team is complaining that their new architecture is "slower" than their old architecture.  Their environment consists of a web-based application front-end hosted on an application tier and a database back-end utilizing NFS storage.  Describe the steps that you would take to identify and resolve the customer's concerns.
+
+
+
 ## Architecture Questions
 
 1. Whiteboard Question --  Diagram a puppet configuration management architecture for the following environment:
@@ -40,7 +47,6 @@
 2. Whiteboard Question -- Diagram a hypothetical enterprise email system based on Postfix with the following criteria:
 
    * 50,000 mail users
-   * users will not have direct access to mail servers
    * 5,000 servers using mail services to send mail
    * must provide spam filtering
    * must be scalable and fault-tolerant
