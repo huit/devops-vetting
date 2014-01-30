@@ -23,6 +23,9 @@
 7. Describe any cloud experience.
 
 
+8. What monitoring tools do you have experience with?
+
+
 ## Networking Questions
 
 1. Describe the "three way handshake" process that takes place when establishing a TCP connection.   Bonus points if you can enumerate the state that the client and server at each phase of the process.
@@ -54,19 +57,21 @@
    * comination of physical hardware, VMs, and cloud infrastructure
    * support for development, test, staging, and production environments
    * include marionette collective support for all nodes
+   Part II:
    * scale this architecture to serve 50,000 hosts
    * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
-
+   * discuss how you would implement monitoring for each component of the system
 
 2. Whiteboard Question -- Diagram a hypothetical enterprise email system based on Postfix with the following criteria:
 
    * 50,000 mail users
    * 5,000 servers using mail services to send mail
    * must provide spam filtering
-   * must be scalable and fault-tolerant
+   * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
+   Part II:
    * scale the system to handle system mail from 20,000 servers.
    * scale the system to handle 100,000 mail users
-   * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
+   * discuss how you would implement monitoring for each component of the system
 
 ## Puppet Questions
 
