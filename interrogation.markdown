@@ -52,23 +52,25 @@
 
 1. Whiteboard Question --  Diagram a puppet configuration management architecture for the following environment:
 
+   i.
    * 5,000 hosts
    * mix of ubuntu and RHEL
    * comination of physical hardware, VMs, and cloud infrastructure
    * support for development, test, staging, and production environments
    * include marionette collective support for all nodes
-   Part II:
+   ii.
    * scale this architecture to serve 50,000 hosts
    * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
    * discuss how you would implement monitoring for each component of the system
 
 2. Whiteboard Question -- Diagram a hypothetical enterprise email system based on Postfix with the following criteria:
 
+   i.
    * 50,000 mail users
    * 5,000 servers using mail services to send mail
    * must provide spam filtering
    * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
-   Part II:
+   ii.
    * scale the system to handle system mail from 20,000 servers.
    * scale the system to handle 100,000 mail users
    * discuss how you would implement monitoring for each component of the system
