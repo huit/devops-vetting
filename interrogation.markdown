@@ -58,6 +58,7 @@
    * comination of physical hardware, VMs, and cloud infrastructure
    * support for development, test, staging, and production environments
    * include marionette collective support for all nodes
+   
    ii.
    * scale this architecture to serve 50,000 hosts
    * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
@@ -70,6 +71,7 @@
    * 5,000 servers using mail services to send mail
    * must provide spam filtering
    * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
+   
    ii.
    * scale the system to handle system mail from 20,000 servers.
    * scale the system to handle 100,000 mail users
