@@ -14,10 +14,23 @@
 4. Any other skills that you have that you think would be applicable to this position?
 
 
+5. What is puppet?
+
+
+6. What operating systems do you have experience with?  What level of experience with each?
+
+
+7. Describe any cloud experience.
+
 
 ## Networking Questions
 
 1. Describe the "three way handshake" process that takes place when establishing a TCP connection.   Bonus points if you can enumerate the state that the client and server at each phase of the process.
+
+
+2. What is the fundamental differnece between TCP and UDP?
+
+
 
 
 
@@ -42,6 +55,7 @@
    * support for development, test, staging, and production environments
    * include marionette collective support for all nodes
    * scale this architecture to serve 50,000 hosts
+   * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
 
 
 2. Whiteboard Question -- Diagram a hypothetical enterprise email system based on Postfix with the following criteria:
@@ -52,6 +66,7 @@
    * must be scalable and fault-tolerant
    * scale the system to handle system mail from 20,000 servers.
    * scale the system to handle 100,000 mail users
+   * provide for service availability through redundancy, fault-tolerance, and disaster recovery.
 
 ## Puppet Questions
 
