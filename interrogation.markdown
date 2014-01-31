@@ -37,6 +37,10 @@
 3. Give some examples of different algorithms used in a network load balancer and describe what each does.
 
 
+4. Explain an A, AAAA, MX, CNAME, NS or glue record?
+
+
+
 
 
 
