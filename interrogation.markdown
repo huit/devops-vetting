@@ -96,16 +96,27 @@
 
 2. Write a basic puppet module that does the following:
 
-   * insert list of goodies here
+   * Manage a file/symlink.
+   * Start a service at the next Puppet run and start at boot time (extra points to start on run level 2 only).
+   * Add a host file entry.
+   * Run a command only when the managed file changes.
 
 
 
 
+## Personal Experience
 
+1. Do you run a home network/server/website? Explain it top to bottom, how sophisticated (or not) is it? Please elaborate.
 
+   * Shows the level of dedication the candidate has to technology and gives a sense of how tech savvy they are.
 
+2. In your professional experience, what was the worst outage you had to work though? How was it eventually resolved?
 
+   * Shows how well the candiate learns from failues and success.
 
+3. If you were to organize an event, say a auction, explain the basic steps you would take?
+
+   * Shows how well the candidate will fare in a leadership role outside of his comfort zone or in an unfamiliar situation.
 
 
 
