@@ -101,6 +101,7 @@
 2. Write a basic puppet module that does the following:
 
    * Manage a file/symlink.
+   * Install a package, Apache on RHEL.
    * Start a service at the next Puppet run and start at boot time (extra points to start on run level 2 only).
    * Add a host file entry.
    * Run a command only when the managed file changes.
