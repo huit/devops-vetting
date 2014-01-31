@@ -105,7 +105,7 @@
    * Add a host file entry.
    * Run a command only when the managed file changes.
 
-
+3. Explain extdata, YAML, Hiera, PuppetDB?
 
 
 ## Personal Experience
