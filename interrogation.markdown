@@ -119,9 +119,13 @@
 
    * Shows how well the candiate learns from failues and success.
 
-3. If you were to organize an event, say a auction, explain the basic steps you would take?
+3. If you were to organize an event, say an auction or a trip, explain the basic steps you would take?
 
    * Shows how well the candidate will fare in a leadership role outside of his comfort zone or in an unfamiliar situation.
+
+4. Would you rather work on a team or on your own?
+
+   * This will give you an idea of how well the candidate works in a team environment.
 
 
 
