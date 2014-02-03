@@ -46,6 +46,10 @@
 
 ## Source Code Repository / Version Control Questions
 
+1. CVS
+2. SVN
+3. git
+
 ## General Troubleshooting Questions
 
 1. You receive a call from a user who can not access a web site hosted by your team.  Describe the steps you would take to troubleshoot.
