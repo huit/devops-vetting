@@ -93,13 +93,19 @@
 3. When researching technologies and best-practices, what are the sources of current information that you rely upon most frequently?
 
 
-4. Think of  an environment for which you were the primary architect and discuss the following:
+4. Think of  a medium- to large-scale environment for which you were the primary architect and discuss the following:
    * provide an overview of the architecture that you designed
    * enumerate some of the challenges that you faced throughout the process (planning, implementation, go-live)
    * describe a component of the system that you think was designed and implemented particularly well
    * describe a component of the system that you think falls short of ideal.  
      * Why was this component designed and implemented the way it was?
      * What would you differently if you had the chance to redo the project?
+
+
+5. You have been tasked with providing management with an end-to-end analysis of your organization's technology footprint.
+   * describe how you would start the process
+   * what are the major elements that you would focus on?
+   * what are the most important deliverables that you see coming out of this effort?
 
 
 
