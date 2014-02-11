@@ -90,10 +90,18 @@
    * discuss how you would implement monitoring for each component of the system
 
 
-3. When researching technologies and best-practices, what are the sources of current information that you rely upon most frequently?
+3. Whiteboard Question -- Tiered Application Architecture
+   * Design a tiered application architecture and diagram it.
+   * explain what each tier is and what functionality it provides.
+   * include elements supporting HA, fault tolerance, redundancy, performance, and scalability
+   * explain benefits and tradeoffs of this architecture
+   * explain a use case in which a three-tired architecture might not be the ideal architecture
 
 
-4. Think of  a medium- to large-scale environment for which you were the primary architect and discuss the following:
+4. When researching technologies and best-practices, what are the sources of current information that you rely upon most frequently?
+
+
+5. Think of  a medium- to large-scale environment for which you were the primary architect and discuss the following:
    * provide an overview of the architecture that you designed
    * enumerate some of the challenges that you faced throughout the process (planning, implementation, go-live)
    * describe a component of the system that you think was designed and implemented particularly well
@@ -102,12 +110,18 @@
      * What would you differently if you had the chance to redo the project?
 
 
-5. You have been tasked with providing management with an end-to-end analysis of your organization's technology footprint.
+6. You have been tasked with providing management with an end-to-end analysis of your organization's technology footprint.
    * describe how you would start the process
    * what are the major elements that you would focus on?
    * what are the most important deliverables that you see coming out of this effort?
 
 
+7. Describe a pilot or proof-of-concept project in which you had a role or a hypothetical PoC.
+   * explain the technology for which this PoC was developed.
+   * who were the primary stakeholders with regard to the new technology
+   * discuss the phases of the project from concept through a "go/no-go" decision
+   * what are some of the major deliverables from a Proof of Concept?
+   * was the new technology adopted and why/why not?
 
 ## Puppet Questions
 
