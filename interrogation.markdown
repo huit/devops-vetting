@@ -14,7 +14,7 @@
 4. Any other skills that you have that you think would be applicable to this position?
 
 
-5. What is puppet?
+5. What is puppet / configuration management?
 
 
 6. What operating systems do you have experience with?  What level of experience with each?
@@ -61,14 +61,13 @@
 
 ## Architecture Questions
 
-1. Whiteboard Question --  Diagram a puppet configuration management architecture for the following environment:
+1. Whiteboard Question --  Diagram a configuration management architecture for the following environment:
 
    i.
    * 5,000 hosts
    * mix of ubuntu and RHEL
    * comination of physical hardware, VMs, and cloud infrastructure
    * support for development, test, staging, and production environments
-   * include marionette collective support for all nodes
    
    ii.
    * scale this architecture to serve 50,000 hosts
@@ -94,6 +93,13 @@
 3. When researching technologies and best-practices, what are the sources of current information that you rely upon most frequently?
 
 
+4. Think of  an environment for which you were the primary architect and discuss the following:
+   * provide an overview of the architecture that you designed
+   * enumerate some of the challenges that you faced throughout the process (planning, implementation, go-live)
+   * describe a component of the system that you think was designed and implemented particularly well
+   * describe a component of the system that you think falls short of ideal.  
+     * Why was this component designed and implemented the way it was?
+     * What would you differently if you had the chance to redo the project?
 
 
 
